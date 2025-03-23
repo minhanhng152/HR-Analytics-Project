@@ -19,6 +19,7 @@ This is further demonstrated in the chart of turnover rates by position. The rol
 Regarding reasons why employees leave the job, major answers are "Career support and growth" and "Salary promotion". Recordings are mostly from Admission Consultant, Web MKT Specialist and Online Operations Specialist. Peak months for resignations are March-April and October-November. This also aligns with industry insights that these are the timings that companies has high recruitment needs. 
 
 **Retention measures:**
+
 **1. Structured Onboarding Program (First 90 Days)**
 - Assign a peer mentor or buddy to each new hire
 - Conduct weekly check-ins with the team lead
